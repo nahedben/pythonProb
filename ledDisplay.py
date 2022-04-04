@@ -36,3 +36,4 @@ def sevenSegment(num):
 
 sevenSegment(9457102)
 sevenSegment(775710)
+print(" A new modification on the python ")
